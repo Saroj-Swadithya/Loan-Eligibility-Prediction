@@ -48,7 +48,7 @@ Two machine learning algorithms, Decision Tree and Naive Bayes, were tested on t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Saroj-Swadithya/Loan-Eligibility-Prediction.git
+    https://github.com/Saroj-Swadithya/Loan-Eligibility-Prediction.git
    ```
 
 
